@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 600px;
+    
+}
+.main {
+    text-align: center;
+    margin: 0 20px; 
+}
+.top {
+    max-width: 600px; 
+    margin: auto;
+}
+img {
+    max-width: 80%;
+    height: auto;
+}
+.mid-first{
+    
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+    
+}
+.mid-second{
+    
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    margin-top: 30px;
+
+}
+.mid-third{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+hr{
+    
+}
